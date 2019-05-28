@@ -1,0 +1,41 @@
+# MTL written from D:\PROJECT 3D Asset Store\Furniture\Rack\Rack.obj
+newmtl Default
+Kd 0.8 0.8 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\PROJECT 3D Asset Store\Furniture\Rack\Texture.JPG
+newmtl Glass
+Kd 0.108517 0.108517 0.108517
+Ns 256
+d 0.5
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\PROJECT 3D Asset Store\Furniture\Rack\Texture.JPG
+newmtl Glasses
+Kd 0.8 0.8 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\PROJECT 3D Asset Store\Furniture\Rack\Texture.JPG
+newmtl Knop
+Kd 0.0757098 0.0757098 0.0757098
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\PROJECT 3D Asset Store\Furniture\Rack\Texture.JPG
+newmtl Line
+Kd 0.108517 0.108517 0.108517
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\PROJECT 3D Asset Store\Furniture\Rack\Texture.JPG
